@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+body{
+  background: #000;
+}
+div{
+  justify-content: center;
+  align-items: center;
+
+}
+h1{
+  font-size: 70px;
+  color: #fff;
+}
+input{
+  padding: 10px;
+  margin-right: 19px;
+  border: none;
+  border-radius: 5px;
+}
+ol{
+  margin-top: 50px;
+}
+li{
+  color: #fff;
+  font-size: 30px;
+  margin: 12px 0;
+}
+.addbtn{
+  background-color: #fff;
+  padding: 5px 15px;
+  margin-top: 20px;
+  border: none;
+  color: #000;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.dlt{
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  float: right;
+}
+.list{
+  width: 800px;
+  margin: auto;
+}
